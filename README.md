@@ -1,7 +1,7 @@
 # Material-Para-DAWeb_BD_5I
 Tenemos link de referencia mas documentos  Agosto 2024
 
-- Karen Corona 
+- Karen Naomi Corona Batrez
 
 ## Desaarrollo web 
 
